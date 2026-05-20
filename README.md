@@ -1,1 +1,1 @@
-Ceci est le dossier regroupant les fichiers .html fait lors du cours d'initiation Web en L1 
+Ceci est le dossier regroupant les fichiers créés dans cours d'initiation Web en L1 
